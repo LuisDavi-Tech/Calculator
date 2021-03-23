@@ -22,4 +22,5 @@ sudo apt install git
   
 - [Download Git](https://git-scm.com/downloads)
 
-![image](https://user-images.githubusercontent.com/79550393/112190903-37ce3f80-8be4-11eb-88f9-1e72d9a945ff.png)
+![image](https://user-images.githubusercontent.com/79550393/112192830-14a48f80-8be6-11eb-805b-16f05c509d68.png)
+

@@ -1,5 +1,5 @@
 # Calculator
-## Uma calculador simples
+## Uma calculadora simples
 ---
 <p>Para clonar o repositório basta rodar o comando abaixo em seu terminal</p>
 
